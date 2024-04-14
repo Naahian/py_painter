@@ -1,7 +1,7 @@
-##Pygame Painter
+## Pygame Painter
 Just a hobby project. You can paint simple stuff nothing much.
 
-##Dependecies
+### Dependecies
 make sure you have `python3` and the `pygame`, `pygame_gui` packages installed
 to install packages run the following in terminal:
 (for Windows and Mac)
