@@ -1,0 +1,182 @@
+{    "#button_black":
+{
+    "colours":
+    {
+        "normal_bg": "#000000",
+        "hovered_bg": "#333333",
+        "disabled_bg": "#646464",
+        "selected_bg": "#555555",
+        "active_bg": "#555555",
+        "dark_bg": "#800000",
+        "normal_text": "#FFFFFF",
+        "hovered_text": "#FFFFFF",
+        "selected_text": "#FFFFFF",
+        "disabled_text": "#6d736f",
+        "active_text": "#FFFFFF",
+        "normal_border": "#DDDDDD",
+        "hovered_border": "#B0B0B0",
+        "disabled_border": "#808080",
+        "selected_border": "#8080B0",
+        "active_border": "#8080B0"
+    }
+},
+    "#button_red":
+    {
+        "colours":
+        {
+            "normal_bg": "#FF0000",
+            "hovered_bg": "#FF6666",
+            "disabled_bg": "#646464",
+            "selected_bg": "#CC0000",
+            "active_bg": "#CC0000",
+            "dark_bg": "#800000",
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "selected_text": "#FFFFFF",
+            "disabled_text": "#6d736f",
+            "active_text": "#FFFFFF",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        }
+    },
+    
+    "#button_green":
+    {
+        "colours":
+        {
+            "normal_bg": "#00FF00",
+            "hovered_bg": "#66FF66",
+            "disabled_bg": "#646464",
+            "selected_bg": "#00CC00",
+            "active_bg": "#00CC00",
+            "dark_bg": "#008000",
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "selected_text": "#FFFFFF",
+            "disabled_text": "#6d736f",
+            "active_text": "#FFFFFF",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        }
+    },
+    
+    "#button_blue":
+    {
+        "colours":
+        {
+            "normal_bg": "#0000FF",
+            "hovered_bg": "#6666FF",
+            "disabled_bg": "#646464",
+            "selected_bg": "#0000CC",
+            "active_bg": "#0000CC",
+            "dark_bg": "#000080",
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "selected_text": "#FFFFFF",
+            "disabled_text": "#6d736f",
+            "active_text": "#FFFFFF",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        }
+    },
+    
+    "#button_yellow":
+    {
+        "colours":
+        {
+            "normal_bg": "#FFFF00",
+            "hovered_bg": "#FFFF66",
+            "disabled_bg": "#646464",
+            "selected_bg": "#CCCC00",
+            "active_bg": "#CCCC00",
+            "dark_bg": "#808000",
+            "normal_text": "#000000",
+            "hovered_text": "#000000",
+            "selected_text": "#000000",
+            "disabled_text": "#6d736f",
+            "active_text": "#000000",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        }
+    },
+    
+    "#button_purple":
+    {
+        "colours":
+        {
+            "normal_bg": "#800080",
+            "hovered_bg": "#996699",
+            "disabled_bg": "#646464",
+            "selected_bg": "#660066",
+            "active_bg": "#660066",
+            "dark_bg": "#400040",
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "selected_text": "#FFFFFF",
+            "disabled_text": "#6d736f",
+            "active_text": "#FFFFFF",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        }
+    },
+    
+    "#button_cyan":
+    {
+        "colours":
+        {
+            "normal_bg": "#00FFFF",
+            "hovered_bg": "#66FFFF",
+            "disabled_bg": "#646464",
+            "selected_bg": "#00CCCC",
+            "active_bg": "#00CCCC",
+            "dark_bg": "#008080",
+            "normal_text": "#000000",
+            "hovered_text": "#000000",
+            "selected_text": "#000000",
+            "disabled_text": "#6d736f",
+            "active_text": "#000000",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        }
+    },
+    "#button_white":
+    {
+        "colours":
+        {
+            "normal_bg": "#ffffff",
+            "hovered_bg": "#eeeeee",
+            "disabled_bg": "#646464",
+            "selected_bg": "#eaeaea",
+            "active_bg": "#eaeaea",
+            "dark_bg": "#008080",
+            "normal_text": "#000000",
+            "hovered_text": "#000000",
+            "selected_text": "#000000",
+            "disabled_text": "#6d736f",
+            "active_text": "#000000",
+            "normal_border": "#DDDDDD",
+            "hovered_border": "#B0B0B0",
+            "disabled_border": "#808080",
+            "selected_border": "#8080B0",
+            "active_border": "#8080B0"
+        }
+    }
+}
