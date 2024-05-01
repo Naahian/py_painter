@@ -10,6 +10,7 @@ class Toolbar(pygame_gui.UIManager):
         self.brush = brush
         self.selectedColor = brush.color 
 
+        #color palletes
         self.redPallete = pygame_gui.elements.UIButton(
             relative_rect = pygame.Rect((130,0), (30,30)),
             manager=self,
@@ -61,7 +62,6 @@ class Toolbar(pygame_gui.UIManager):
  
 
         
-    
     def handleEvents(self, event):
         self.process_events(event)
         self._buttonEvent(event)
