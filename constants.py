@@ -10,5 +10,5 @@ class Colors:
     grey = (50,50,50)
 
 class Default:
-    fps = 120
+    fps = 240
     resolution = [680, 400]
